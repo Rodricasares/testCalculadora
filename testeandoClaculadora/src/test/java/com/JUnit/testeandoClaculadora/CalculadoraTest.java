@@ -14,7 +14,6 @@ public class CalculadoraTest {
         assertEquals(8.0, resultado); // Verifica que la suma sea correcta (3 + 5 = 8)
     }
 
-
     @Test
     void testCalcularMenor1() {
         Calculadora calculadora = new Calculadora();
